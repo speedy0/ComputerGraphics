@@ -1,0 +1,10 @@
+﻿  Game.cpp
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(1923,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(1933,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(1978,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(1979,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(1984,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(1985,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(1997,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+B:\Others\Uni\CG\Coursework\OpenGLTemplate\Game.cpp(2363,21): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  OpenGLTemplate.vcxproj -> B:\Others\Uni\CG\Coursework\x64\Debug\OpenGLTemplate.exe
